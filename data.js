@@ -40,7 +40,7 @@ const qaData = {
     mn: "Тийм. Манай эгч энэ мэргэжлээр суралцсан. Учир нь технологийн салбарын өсөлтөд татагдсан.",
   },
   "How many more years do you have left to finish your school?": {
-    en: "I have 2 years left to finish my degree. I will graduate in June 2026 because our program is 4 years long.",
+    en: "I have 1 year left to finish my degree. I will graduate in June 2026 because our program is 4 years long.",
     mn: "Надад сургуулиа төгсөхөд 2 жил үлдсэн. Манай хөтөлбөр 4 жилийн хугацаатай учраас би 2026 оны 6-р сард төгсөнө.",
   },
   "What university do you go to?": {
@@ -49,7 +49,7 @@ const qaData = {
   },
   "What course are you?": {
     en: "I am in my 3rd year. This year is important because we are studying software engineering and learning about algorithms.",
-    mn: "Би 2-р курст суралцаж байна. Энэ жил чухал учир нь бид програмын инженерчлэл судалж, алгоритмууд -ын талаар суралцаж байна.",
+    mn: "Би 3-р курст суралцаж байна. Энэ жил чухал учир нь бид програмын инженерчлэл судалж, алгоритмууд -ын талаар суралцаж байна.",
   },
   "Is there any particular place you would like to visit in the US?": {
     en: "Yes, I would really like to visit New York because of its vibrant culture. I am interested in seeing the Statue of Liberty and experiencing the city's nightlife.",
