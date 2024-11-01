@@ -44,8 +44,8 @@ const qaData = {
     mn: "Надад сургуулиа төгсөхөд 2 жил үлдсэн. Манай хөтөлбөр 4 жилийн хугацаатай учраас би 2026 оны 6-р сард төгсөнө.",
   },
   "What university do you go to?": {
-    en: "I study at Mongolian University of Science and Technology. I chose this university because it has a strong program in computer engineering and excellent facilities for practical programming training.",
-    mn: "Би Шинжлэх Ухаан Технологийн Их Сургууль-д суралцдаг. Энэ сургуулийг сонгосон шалтгаан нь компьютерийн инженерчлэл чиглэлээр хүчтэй хөтөлбөртэй бөгөөд програмчлалын дадлага-д зориулсан сайн тоноглогдсон байгууламжтай.",
+    en: "I study at National University of Mongolia. I chose this university because it has a strong program in computer engineering and excellent facilities for practical programming training.",
+    mn: "Би Монгол Улсын Их Сургууль-д суралцдаг. Энэ сургуулийг сонгосон шалтгаан нь компьютерийн инженерчлэл чиглэлээр хүчтэй хөтөлбөртэй бөгөөд програмчлалын дадлага-д зориулсан сайн тоноглогдсон байгууламжтай.",
   },
   "What course are you?": {
     en: "I am in my 3rd year. This year is important because we are studying software engineering and learning about algorithms.",

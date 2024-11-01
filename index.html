@@ -145,8 +145,8 @@
 
         for (const [question, answers] of Object.entries(qaData)) {
           const card = document.createElement("div");
-          // Change column classes to be full width on mobile
-          card.className = "col-12 col-md-6 col-lg-4 mb-4"; // col-12 means full width on mobile
+
+          card.className = "col-12 col-md-6 col-lg-4 mb-4";
           card.innerHTML = `
       <div class="card h-100">
         <div class="card-body">
@@ -174,7 +174,6 @@
           answer.style.display = "none";
         }
 
-        // Reset all toggle buttons
         const toggleBtns = document.querySelectorAll(".card .btn");
         toggleBtns.forEach((btn) => {
           btn.textContent = "Show Answer";
